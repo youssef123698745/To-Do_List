@@ -1,2 +1,2 @@
-# To-Do_List
-To Do List Website
+# todo-list
+todo list website
